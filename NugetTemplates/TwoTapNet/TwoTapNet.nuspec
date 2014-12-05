@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>TwoTapNet</id>
+    <version>1.0.0</version>
+    <title>TwoTapNet</title>
+    <authors>NextGen Web Studios - Jeremy Frederick</authors>
+    <owners>NextGen Web Studios - Jeremy Frederick</owners>
+	  <iconUrl>https://github.com/nextgenwebstudios/twotapnet-nuget/raw/master/artifacts/img/twotap-logo.png</iconUrl>
+    <projectUrl>https://github.com/nextgenwebstudios/twotapnet-nuget</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      .NET SDK for the TwoTap (https://twotap.com)
+    </description>
+    <summary>
+      .NET SDK for the TwoTap (https://twotap.com)
+    </summary>
+    <language>en-US</language>
+    <dependencies>
+	    <dependency id="Newtonsoft.Json" version="6.0.0" />
+    </dependencies>
+  </metadata>
+</package>

@@ -1,0 +1,8 @@
+[submodule "Src"]
+	path = Src
+	url = https://github.com/NextGenWebStudios/TwoTapNet.git
+	branch = master
+[submodule "BuildSystem"]
+	path = BuildSystem
+	url = https://github.com/NextGenWebStudios/Sharp-Architecture-Build.git
+	branch = master
